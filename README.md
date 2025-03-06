@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Guilherme, atualmente trabalho na área de desenvolvimento de sistemas, e estou cursando ADS.</p>
+<p align="left">Me chamo Guilherme, trabalho na área de desenvolvimento de sistemas e analista de dados, e estou cursando ADS.</p>
 
 ###
 
